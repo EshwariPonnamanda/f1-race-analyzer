@@ -1,0 +1,36 @@
+{
+  "MRData": {
+    "xmlns": "http://ergast.com/mrd/1.5",
+    "series": "f1",
+    "url": "http://ergast.com/api/f1/current/last/results.json",
+    "limit": "30",
+    "offset": "0",
+    "total": "20",
+    "RaceTable": {
+      "season": "2024",
+      "round": "9",
+      "Races": [
+        {
+          "season": "2024",
+          "round": "9",
+          "url": "http://en.wikipedia.org/wiki/2024_Canadian_Grand_Prix",
+          "raceName": "Canadian Grand Prix",
+          "Circuit": {
+            "circuitName": "Circuit Gilles Villeneuve"
+          },
+          "date": "2024-06-09",
+          "Results": [
+            {
+              "Driver": {
+                "familyName": "Verstappen"
+              },
+              "Constructor": {
+                "name": "Red Bull"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
