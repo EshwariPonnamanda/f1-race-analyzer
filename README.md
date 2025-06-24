@@ -70,7 +70,7 @@ MIT — feel free to fork, use, or build on it!
 
 **Eshwari Ponnamanda**
 
-Made with ❤️ for learning, building, and celebrating Formula 1 🏎️
+Made with passion for learning, building, and Formula 1 🏎️
 
 
 
