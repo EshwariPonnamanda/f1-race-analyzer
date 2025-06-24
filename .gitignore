@@ -1,33 +1,26 @@
-HELP.md
-target/
-.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
+# ========== Java & Maven ==========
+/target/
+*.log
 
-### STS ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-
-### IntelliJ IDEA ###
-.idea
-*.iws
+# ========== IDEs ==========
+# IntelliJ
+.idea/
 *.iml
-*.ipr
 
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-build/
-!**/src/main/**/build/
-!**/src/test/**/build/
+# Eclipse
+.classpath
+.project
+.settings/
 
-### VS Code ###
+# VSCode
 .vscode/
+
+# ========== OS Junk ==========
+.DS_Store
+Thumbs.db
+
+# ========== JSON Cache/Temp ==========
+*.json~
+
+# Swagger Generated Files
+swagger-ui.html
