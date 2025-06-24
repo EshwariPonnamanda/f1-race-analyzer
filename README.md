@@ -16,7 +16,7 @@ This project combines my interest in backend development and my love for Formula
 - [Swagger UI Preview](#swagger-ui-preview)
 - [License](#license)
 
-## 🚀 Features
+
 ## 🚀 Features
 
 - 🔍 Retrieve all current drivers → `/f1/drivers`
