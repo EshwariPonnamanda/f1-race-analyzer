@@ -39,7 +39,8 @@ Then visit:
 ```
 
 ## 📸 Swagger UI Preview
-![ui](https://github.com/user-attachments/assets/c3e6b392-03bb-4671-842d-726d6783bf98)
+![Screenshot 2025-06-24 at 3 31 10 AM](https://github.com/user-attachments/assets/8d58b963-0b3a-46c3-9998-bec89d6d80ca)
+
 
 ## 📄 License
 MIT — feel free to fork, use, or build on it!
