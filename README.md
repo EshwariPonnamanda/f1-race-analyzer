@@ -1,7 +1,7 @@
 # 🏎️ F1 Race Analyzer API
 
-![Repo Size](https://img.shields.io/github/repo-size/EshwariPonnamanda/F1-RaceAnalyzer)
-![Last Commit](https://img.shields.io/github/last-commit/EshwariPonnamanda/F1-RaceAnalyzer)
+![Repo Size](https://img.shields.io/github/repo-size/EshwariPonnamanda/f1-race-analyzer)
+![Last Commit](https://img.shields.io/github/last-commit/EshwariPonnamanda/f1-race-analyzer)
 
 Hi! 👋 This is a real-time Formula 1 API I built using **Java Spring Boot**, powered by [OpenF1](https://openf1.org). It fetches live driver data and gives you clean endpoints to explore and filter based on driver number or team.
 
