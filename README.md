@@ -7,7 +7,7 @@ This project combines my interest in backend development and my love for Formula
 ## 🚀 Features
 - 🔍 Get all current drivers  
   `GET /f1/drivers`
-- 🏁 Filter by team (e.g., Ferrari, Mercedes)  
+- 🏁 Filter by team 
   `GET /f1/drivers?team=Ferrari`
 - 🧑‍✈️ Get a driver by number  
   `GET /f1/drivers/number/44`
